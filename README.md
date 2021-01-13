@@ -1,2 +1,2 @@
 # ironhack-challenges
-Ironhack Challeges 1120
+Ironhack Challenges 1120
